@@ -1,5 +1,5 @@
 package Arrays;
-public class A93_Arrays2Memory {
+public class A92_Arrays2Memory {
   public static void swap(int []arr, int i, int j ){
     int temp = arr[i];
     arr[i] = arr[j];
